@@ -11,6 +11,14 @@ Module 3 : Using computer software to analyze experiments
   
 - 3C: Using computer software for a 3 factor experiment
   - [Course Example](https://github.com/CaptainErable/fresh-start/blob/master/3C%20Course%20Example.R)
+  
+- 3D: Case study: a 4-factor system using computer software 
+  - [Course Example](https://github.com/CaptainErable/fresh-start/blob/master/3D%20Course%20Example.R)
+
+- Ungraded Practice Exam
+  - [Question 3](https://github.com/CaptainErable/fresh-start/blob/master/Ungraded%20Practice%20Quiz%20Q3.R)
+  - [Question 5-6](https://github.com/CaptainErable/fresh-start/blob/master/Ungraded%20Practice%20Quiz%20Q5-6.R)
+  
     
 Hello world !
 
